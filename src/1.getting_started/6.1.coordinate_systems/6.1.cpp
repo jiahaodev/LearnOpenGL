@@ -45,7 +45,7 @@ int main() {
 
 	//初始化shader程序
 	//initShaderProgram();
-	Shader ourShader("shader/6.1.coordinate_systems.vs", "shader/6.1.coordinate_systems.fs");
+	Shader ourShader("shader/1/6.1.coordinate_systems.vs", "shader/1/6.1.coordinate_systems.fs");
 	//初始化shader相关数据
 	initShaderData();
 

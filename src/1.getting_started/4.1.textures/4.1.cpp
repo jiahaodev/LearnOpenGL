@@ -38,7 +38,7 @@ int main() {
 
 	//初始化shader程序
 	//initShaderProgram();
-	Shader ourShader("shader/4.1.texture.vs", "shader/4.1.texture.fs");
+	Shader ourShader("shader/1/4.1.texture.vs", "shader/1/4.1.texture.fs");
 	//初始化shader相关数据
 	initShaderData();
 

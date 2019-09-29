@@ -45,7 +45,7 @@ int main() {
 
 	//初始化shader程序
 	//initShaderProgram();
-	Shader ourShader("shader/5.2.transform.vs", "shader/5.2.transform.fs");
+	Shader ourShader("shader/1/5.2.transform.vs", "shader/1/5.2.transform.fs");
 	//初始化shader相关数据
 	initShaderData();
 

@@ -65,7 +65,7 @@ int main() {
 
 	//初始化shader程序
 	//initShaderProgram();
-	Shader ourShader("shader/7.3.camera.vs", "shader/7.3.camera.fs");
+	Shader ourShader("shader/1/7.3.camera.vs", "shader/1/7.3.camera.fs");
 	//初始化shader相关数据
 	initShaderData();
 	//初始化纹理数据
